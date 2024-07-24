@@ -1,12 +1,6 @@
 {
   "version": 2,
   "name": "Radio-Meta-FM",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
